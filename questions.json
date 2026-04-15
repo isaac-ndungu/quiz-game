@@ -1,0 +1,27 @@
+[
+    {
+        "question": "What is 12 x 12?",
+        "choices": {"A": "132", "B": "144", "C": "124", "D": "148"},
+        "answer": "B"
+    },
+    {
+        "question": "What is the square root of 81?",
+        "choices": {"A": "7", "B": "8", "C": "9", "D": "11"},
+        "answer": "C"
+    },
+    {
+        "question": "What is 15 percent of 200?",
+        "choices": {"A": "25", "B": "30", "C": "35", "D": "40"},
+        "answer": "B"
+    },
+    {
+        "question": "How many degrees are in a right angle?",
+        "choices": {"A": "45", "B": "180", "C": "90", "D": "360"},
+        "answer": "C"
+    },
+    {
+        "question": "What is 2 to the power of 8?",
+        "choices": {"A": "128", "B": "256", "C": "512", "D": "64"},
+        "answer": "B"
+    }
+]
